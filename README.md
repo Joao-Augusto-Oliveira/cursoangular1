@@ -4,7 +4,7 @@
 
 Projeto em desenvolvimento do Curso Angular do básico ao avançado promovido pela [Loiane].
 
-</h3> 
+</h3>
 
 </div>
 
@@ -18,7 +18,8 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 
 #### ✔️ Aulas realizadas
 
-##### Introdução 
+##### Introdução
+
 - [x] Introdução ao Angular
 - [x] Ambiente de Desenvolvimento (Node.JS, TypeScript, Angular CLI)
 - [x] Hello, World! Criando primeiro projeto e o primeiro Componente
@@ -26,11 +27,12 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Módulos (ngModule)
 - [x] Templates
 - [x] Serviços (Services) e Injeção de dependência (DI)
-- [ ] Dicas plugins Angular para Atom e VS Code
-<br>
+- [x] Dicas plugins Angular para Atom e VS Code
+      <br>
 
-##### Data binding 
-- [ ] Property Binding e Interpolação
+##### Data binding
+
+- [x] Property Binding e Interpolação
 - [ ] Class e Style binding
 - [ ] Event binding
 - [ ] Two-way data binding
@@ -38,9 +40,10 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Output properties
 - [ ] Ciclo de vida (life-cycle) do Componente
 - [ ] Acesso ao DOM e ao Template com ViewChild
-<br>
+      <br>
 
-##### Angular CLI 
+##### Angular CLI
+
 - [ ] Angular CLI: Instalação e criação de projetos: ng new e ng serve
 - [ ] Angular CLI: Criando components, services: ng generate
 - [ ] Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
@@ -48,14 +51,15 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Angular CLI: Estrutura do projeto
 - [ ] Angular CLI: Gerando build de produção
 - [ ] Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
-<br>
+      <br>
 
 ##### Diretivas
+
 - [ ] Introdução e tipos de diretivas no Angular
 - [ ] Diretivas: ngIf
 - [ ] Diretivas: ngSwitch, ngSwitchCase e ngSwitchDefault
 - [ ] Diretivas: ngFor
-- [ ] Diretivas: sobre o * e template
+- [ ] Diretivas: sobre o \* e template
 - [ ] Diretivas: ngClass
 - [ ] Diretivas: ngStyle
 - [ ] Operador Elvis
@@ -64,27 +68,30 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Diretivas: HostListener e HostBinding
 - [ ] Diretivas: Input e Property Binding
 - [ ] Criando uma diretiva de estrutura (ngElse)
-<br>
+      <br>
 
 ##### Serviços
+
 - [ ] Introdução a Serviços
 - [ ] Criando um serviço (Service)
 - [ ] Injeção de Dependência (DI) + como usar um serviço em um componente
 - [ ] Escopo de instâncias de serviços e módulos (singleton e várias instâncias)
 - [ ] Comunicação entre componentes usando serviços (broadcast de eventos)
 - [ ] Injetando um serviço em outro serviço
-<br>
+      <br>
 
 ##### Pipes
+
 - [ ] Pipes (usando pipes, parâmetros e pipes aninhados)
 - [ ] Criando um Pipe
 - [ ] Aplicando Locale (internacionalização) nos Pipes
 - [ ] Pipes: Criando um Pipe Puro
 - [ ] Pipes: Criando um Pipe Impuro
 - [ ] Pipes: Async (Assíncrono)
-<br>
+      <br>
 
 ##### Rotas
+
 - [ ] Rotas: Introdução
 - [ ] Rotas: Configurando rotas simples
 - [ ] Rotas: RouterLink: definindo rotas no template
@@ -108,9 +115,10 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Usando Guarda de Rotas: CanLoad: como não carregar o módulo sem permissão
 - [ ] Definindo rota padrão e wildcard (rota não encontrada)
 - [ ] Estilo de url: HTML5 ou usando #
-<br>
+      <br>
 
 ##### Formulários (Template Driven)
+
 - [ ] Formulários (template vs data / reativo) Introdução
 - [ ] Formulários – Criando o projeto inicial com Bootstrap 3
 - [ ] Forms (template driven) Controles ngForm, ngSubmit e ngModel
@@ -127,9 +135,10 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Forms (template driven) Pesquisando endereço automaticamente com CEP
 - [ ] Forms (template driven) Populando campos com setValue e patchValue (autocomplete CEP)
 - [ ] Forms (template driven) Submetendo valores com HTTP POST
-<br>
+      <br>
 
-##### Formulários Reativos (data-driven) 
+##### Formulários Reativos (data-driven)
+
 - [ ] Formulários reativos (data driven) Introdução
 - [ ] Formulários reativos: Configuração (Módulo e Componente)
 - [ ] Formulários reativos: Criando um form com código Angular
@@ -159,9 +168,10 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Formulários reativos: Campo input customizado (ControlValueAcessor)
 - [ ] Formulários reativos: Classe base para Forms (herança no Angular)
 - [ ] Formulários reativos: Combobox aninhado: Estado + Cidade
-<br>
+      <br>
 
-##### Http 
+##### Http
+
 - [ ] Http / HttpClient: Introdução
 - [ ] Instalando Bootstrap 4
 - [ ] Http: Simulando Servidor REST (json-server)
@@ -190,14 +200,16 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Criando tela de pesquisa
 - [ ] Http: Passando Parâmetros na URL (HttpParams)
 - [ ] Pesquisa/Busca com Programação Reativa
-<br>
+      <br>
 
-##### Depuração / Debug 
+##### Depuração / Debug
+
 - [ ] Debug com Augury
 - [ ] Debug com Visual Studio Code
-<br>
+      <br>
 
-##### Build e Deploy 
+##### Build e Deploy
+
 - [ ] Build de Produção + Suporte ao Internet Explorer
 - [ ] Deploy em Produção (Firebase Hosting)
 - [ ] Deploy em Produção com ng deploy (Firebase)
@@ -207,7 +219,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [ ] Imagem Docker: Deploy Microsoft Azure
 - [ ] Imagem Docker: Deploy Amazon AWS
 - [ ] Conclusão e próximos passos
-<br>
+      <br>
 
 ### 🚀 **Mão na massa**
 
@@ -236,4 +248,4 @@ Feito com 💜 por <a href="https://www.linkedin.com/in/joão-augusto-oliveira-d
 
 <!-- Links -->
 
-[Loiane]: https://loiane.training/
+[loiane]: https://loiane.training/
