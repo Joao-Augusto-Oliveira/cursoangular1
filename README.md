@@ -34,7 +34,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 
 - [x] Property Binding e Interpolação
 - [x] Class e Style binding
-- [ ] Event binding
+- [x] Event binding
 - [ ] Two-way data binding
 - [ ] Input properties
 - [ ] Output properties
