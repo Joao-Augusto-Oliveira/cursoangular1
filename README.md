@@ -38,7 +38,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Two-way data binding
 - [x] Input properties
 - [x] Output properties
-- [ ] Ciclo de vida (life-cycle) do Componente
+- [x] Ciclo de vida (life-cycle) do Componente
 - [ ] Acesso ao DOM e ao Template com ViewChild
       <br>
 
