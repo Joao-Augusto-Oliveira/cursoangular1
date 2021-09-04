@@ -44,7 +44,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 
 ##### Angular CLI
 
-- [ ] Angular CLI: Instalação e criação de projetos: ng new e ng serve
+- [x] Angular CLI: Instalação e criação de projetos: ng new e ng serve
 - [ ] Angular CLI: Criando components, services: ng generate
 - [ ] Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
 - [ ] Angular CLI: ng lint, ng test, ng e2e
