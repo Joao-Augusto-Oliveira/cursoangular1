@@ -30,7 +30,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Dicas plugins Angular para Atom e VS Code
       <br>
 
-##### Data binding
+##### ✔️ Data binding
 
 - [x] Property Binding e Interpolação
 - [x] Class e Style binding
@@ -39,7 +39,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Input properties
 - [x] Output properties
 - [x] Ciclo de vida (life-cycle) do Componente
-- [ ] Acesso ao DOM e ao Template com ViewChild
+- [x] Acesso ao DOM e ao Template com ViewChild
       <br>
 
 ##### Angular CLI
