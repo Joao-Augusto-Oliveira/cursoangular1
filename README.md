@@ -55,8 +55,8 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 
 ##### Diretivas
 
-- [ ] Introdução e tipos de diretivas no Angular
-- [ ] Diretivas: ngIf
+- [x] Introdução e tipos de diretivas no Angular
+- [x] Diretivas: ngIf
 - [ ] Diretivas: ngSwitch, ngSwitchCase e ngSwitchDefault
 - [ ] Diretivas: ngFor
 - [ ] Diretivas: sobre o \* e template
