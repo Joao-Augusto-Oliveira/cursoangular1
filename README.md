@@ -42,15 +42,15 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Acesso ao DOM e ao Template com ViewChild
       <br>
 
-##### Angular CLI
+##### ✔️ Angular CLI
 
 - [x] Angular CLI: Instalação e criação de projetos: ng new e ng serve
 - [x] Angular CLI: Criando components, services: ng generate
 - [x] Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
 - [x] Angular CLI: ng lint, ng test, ng e2e
-- [ ] Angular CLI: Estrutura do projeto
-- [ ] Angular CLI: Gerando build de produção
-- [ ] Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
+- [x] Angular CLI: Estrutura do projeto
+- [x] Angular CLI: Gerando build de produção
+- [x] Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
       <br>
 
 ##### Diretivas
