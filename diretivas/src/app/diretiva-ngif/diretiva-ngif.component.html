@@ -8,15 +8,24 @@
   Não existem cursos para serem listados.
 </div> -->
 
-<!-- <div *ngIf="mostrarCursos">
+<div *ngIf="mostrarCursos">
   Lista de cursos aqui.
 </div>
 
-<div *ngIf="!mostrarCursos">
-  Não existem cursos para serem listados.
+<!-- <template [ngIf]="mostrarCursos">
+  <div>Mostrar cursos</div>
+</template> -->
+
+<!-- <div template="ngIf mostrarCursos">
+  Lista de cursos aqui
 </div> -->
 
-<h5>hidden como alternativa</h5>
+
+<div *ngIf="!mostrarCursos">
+  Não existem cursos para serem listados.
+</div>
+
+<!-- <h5>hidden como alternativa</h5>
 
 <div [hidden]="!mostrarCursos">
   Lista de cursos aqui.
@@ -25,7 +34,7 @@
 <div [hidden]="mostrarCursos">
   Não existem cursos para serem listados.
 </div>
-<br>
+<br> -->
 
 <button (click)="onMostrarCursos()">Mostrar ou esconder cursos</button>
 

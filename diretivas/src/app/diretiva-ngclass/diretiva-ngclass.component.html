@@ -1,0 +1,25 @@
+<!-- <h1>
+  <span class="glyphicon"
+  aria-hidden="true"
+  [class.glyphicon-star-empty]="!meuFavorito"
+  [class.glyphicon-star]="meuFavorito"
+  (click)="onClick()"
+  >
+  </span>
+</h1> -->
+
+<h1>
+  <p>ngClass</p>
+  <span
+    class="glyphicon"
+    aria-hidden="true"
+    [ngClass]=
+      "{
+        'glyphicon-star-empty': !meuFavorito,
+        'glyphicon-star':meuFavorito
+      }"
+    (click)="onClick()"
+  >
+  </span>
+</h1>
+
