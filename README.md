@@ -59,8 +59,8 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Diretivas: ngIf
 - [x] Diretivas: ngSwitch, ngSwitchCase e ngSwitchDefault
 - [x] Diretivas: ngFor
-- [ ] Diretivas: sobre o \* e template
-- [ ] Diretivas: ngClass
+- [x] Diretivas: sobre o \* e template
+- [x] Diretivas: ngClass
 - [ ] Diretivas: ngStyle
 - [ ] Operador Elvis
 - [ ] ng-content
