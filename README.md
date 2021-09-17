@@ -62,7 +62,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Diretivas: sobre o \* e template
 - [x] Diretivas: ngClass
 - [x] Diretivas: ngStyle
-- [ ] Operador Elvis
+- [x] Operador Elvis
 - [ ] ng-content
 - [ ] Criando uma diretiva de atributo: ElementRef e Renderer
 - [ ] Diretivas: HostListener e HostBinding
