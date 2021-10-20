@@ -66,7 +66,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] ng-content
 - [x] Criando uma diretiva de atributo: ElementRef e Renderer
 - [x] Diretivas: HostListener e HostBinding
-- [ ] Diretivas: Input e Property Binding
+- [x] Diretivas: Input e Property Binding
 - [ ] Criando uma diretiva de estrutura (ngElse)
       <br>
 
