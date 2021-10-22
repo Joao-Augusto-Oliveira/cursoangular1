@@ -53,7 +53,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
       <br>
 
-##### Diretivas
+##### ✔️ Diretivas
 
 - [x] Introdução e tipos de diretivas no Angular
 - [x] Diretivas: ngIf
@@ -67,7 +67,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Criando uma diretiva de atributo: ElementRef e Renderer
 - [x] Diretivas: HostListener e HostBinding
 - [x] Diretivas: Input e Property Binding
-- [ ] Criando uma diretiva de estrutura (ngElse)
+- [x] Criando uma diretiva de estrutura (ngElse)
       <br>
 
 ##### Serviços
