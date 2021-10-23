@@ -75,7 +75,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Introdução a Serviços
 - [x] Criando um serviço (Service)
 - [x] Injeção de Dependência (DI) + como usar um serviço em um componente
-- [ ] Escopo de instâncias de serviços e módulos (singleton e várias instâncias)
+- [x] Escopo de instâncias de serviços e módulos (singleton e várias instâncias)
 - [ ] Comunicação entre componentes usando serviços (broadcast de eventos)
 - [ ] Injetando um serviço em outro serviço
       <br>
