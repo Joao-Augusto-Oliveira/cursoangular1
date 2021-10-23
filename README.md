@@ -70,14 +70,14 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Criando uma diretiva de estrutura (ngElse)
       <br>
 
-##### Serviços
+##### ✔️ Serviços
 
 - [x] Introdução a Serviços
 - [x] Criando um serviço (Service)
 - [x] Injeção de Dependência (DI) + como usar um serviço em um componente
 - [x] Escopo de instâncias de serviços e módulos (singleton e várias instâncias)
 - [x] Comunicação entre componentes usando serviços (broadcast de eventos)
-- [ ] Injetando um serviço em outro serviço
+- [x] Injetando um serviço em outro serviço
       <br>
 
 ##### Pipes
