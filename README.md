@@ -82,7 +82,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 
 ##### Pipes
 
-- [ ] Pipes (usando pipes, parâmetros e pipes aninhados)
+- [x] Pipes (usando pipes, parâmetros e pipes aninhados)
 - [ ] Criando um Pipe
 - [ ] Aplicando Locale (internacionalização) nos Pipes
 - [ ] Pipes: Criando um Pipe Puro
