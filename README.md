@@ -80,14 +80,14 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Injetando um serviço em outro serviço
       <br>
 
-##### Pipes
+##### ✔️ Pipes
 
 - [x] Pipes (usando pipes, parâmetros e pipes aninhados)
 - [x] Criando um Pipe
 - [x] Aplicando Locale (internacionalização) nos Pipes
 - [x] Pipes: Criando um Pipe Puro
 - [x] Pipes: Criando um Pipe Impuro
-- [ ] Pipes: Async (Assíncrono)
+- [x] Pipes: Async (Assíncrono)
       <br>
 
 ##### Rotas
