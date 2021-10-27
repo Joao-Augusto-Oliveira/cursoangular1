@@ -8,9 +8,10 @@ import { CamelCasePipe } from './camel-case.pipe';
 import '@angular/common/locales/global/pt';
 import { FiltroArrayPipe } from './filtro-array.pipe';
 import {FormsModule } from '@angular/forms';
+import { FiltroArrayImpuroPipe } from './filtro-array-impuro.pipe';
 
 @NgModule({
-  declarations: [AppComponent, ExemplosPipesComponent, CamelCasePipe, FiltroArrayPipe],
+  declarations: [AppComponent, ExemplosPipesComponent, CamelCasePipe, FiltroArrayPipe, FiltroArrayImpuroPipe],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [
     {
