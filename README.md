@@ -85,7 +85,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 - [x] Pipes (usando pipes, parâmetros e pipes aninhados)
 - [x] Criando um Pipe
 - [x] Aplicando Locale (internacionalização) nos Pipes
-- [ ] Pipes: Criando um Pipe Puro
+- [x] Pipes: Criando um Pipe Puro
 - [ ] Pipes: Criando um Pipe Impuro
 - [ ] Pipes: Async (Assíncrono)
       <br>

@@ -6,10 +6,12 @@ import { AppComponent } from './app.component';
 import { ExemplosPipesComponent } from './exemplos-pipes/exemplos-pipes.component';
 import { CamelCasePipe } from './camel-case.pipe';
 import '@angular/common/locales/global/pt';
+import { FiltroArrayPipe } from './filtro-array.pipe';
+import {FormsModule } from '@angular/forms';
 
 @NgModule({
-  declarations: [AppComponent, ExemplosPipesComponent, CamelCasePipe],
-  imports: [BrowserModule, AppRoutingModule],
+  declarations: [AppComponent, ExemplosPipesComponent, CamelCasePipe, FiltroArrayPipe],
+  imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [
     {
       provide: LOCALE_ID,
