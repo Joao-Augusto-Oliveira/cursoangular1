@@ -93,7 +93,7 @@ Abordagem: conceitos de componentes, templates, diretivas, serviços, data-bindi
 ##### Rotas
 
 - [x] Rotas: Introdução
-- [ ] Rotas: Configurando rotas simples
+- [x] Rotas: Configurando rotas simples
 - [ ] Rotas: RouterLink: definindo rotas no template
 - [ ] Rotas: Aplicando CSS em rotas ativas
 - [ ] Rotas: Definindo e extraindo parâmetros de roteamento
